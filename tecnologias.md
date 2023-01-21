@@ -28,7 +28,8 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |#| NOMBRE | ENLACE | INTERESADOS |
 |-|-|-|-|
 |1|Sistemas de Control de Versiones|[Git](https://git-scm.com/)|1|
-|2|Moral Machine|[Start Judging]( https://www.moralmachine.net/)|1|
+|2|Moral Machine|[Start Judging](https://www.moralmachine.net/)|1|
+|3|Juego Aprendizaje GIT|[Ir al Sitio](https://learngitbranching.js.org/?locale=es_AR)|12|
 |||||
 
 ---
